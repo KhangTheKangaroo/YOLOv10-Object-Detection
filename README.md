@@ -1,6 +1,8 @@
 # YOLOv10-Object-Detection #
 
-#PLEASE RUN IN GOOGLE COLLAB
+## Object Detection with YOLOv10
+
+## PLEASE RUN IN GOOGLE COLLAB
 
 - Switch Runtime Type to GPU
 
