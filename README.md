@@ -1,6 +1,6 @@
 # YOLOv10-Object-Detection #
 
-## Object Detection with YOLOv10
+Object Detection with YOLOv10
 
 ## PLEASE RUN IN GOOGLE COLLAB
 
